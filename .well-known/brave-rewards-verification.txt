@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: j-osephlong.github.io
+Token: b41acb10427cbfa00e8447a850e9cf51955a2d3221711af0ff68e9aef912c29f
